@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CS 6100 Program 2/src/menon/cs6100/program2/ReactiveAgentsPanel.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="menon.cs6100.program2.ReactiveAgentsPanel"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CS 6100 Program 2"/>
+</launchConfiguration>
